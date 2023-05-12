@@ -1,4 +1,4 @@
-# **Alternative Stable Diffusion WebUI**</p>
+# **Alternative Stable Diffusion WebUI V2.1**</p>
 ## 👉[Stable Diffusion WebUI (Google Colab)](https://colab.research.google.com/github/Diaz-AL/Alternative-StableDiffusion/blob/main/Alt_StableDiffusionWebUI.ipynb)👈
 
 ## Features
