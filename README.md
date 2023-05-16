@@ -1,5 +1,12 @@
 # **Alternative Stable Diffusion WebUI V2.1**</p>
-## 👉[Stable Diffusion WebUI (Google Colab)](https://colab.research.google.com/github/Diaz-AL/Alternative-StableDiffusion/blob/main/Alt_StableDiffusion_V2.1.ipynb)👈
+## 👉[Stable Diffusion WebUI (Google Colab)](https://colab.research.google.com/github/Diaz-AL/Alternative-StableDiffusion/blob/main/Alt_StableDiffusion_V2.1.ipynb){:target="_blank"}👈
+
+<p align="center">
+  <a href="https://colab.research.google.com/github/Diaz-AL/Alternative-StableDiffusion/blob/main/Alt_StableDiffusion_V2.1.ipynb" target="_blank">
+    <img src="https://img.shields.io/badge/-Google%20Colab-%23F9AB00?style=plastic&logo=google-colab&logoColor=white" alt="Google Colab">
+  </a>
+</p>
+
 [![Google Colab](https://img.shields.io/badge/-Google%20Colab-%23F9AB00?style=plastic&logo=google-colab&logoColor=white)](https://colab.research.google.com/github/Diaz-AL/Alternative-StableDiffusion/blob/main/Alt_StableDiffusion_V2.1.ipynb)
 
 ## Features
