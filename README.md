@@ -1,6 +1,6 @@
 # **Alternative Stable Diffusion WebUI V2.1**</p>
 ## 👉[Stable Diffusion WebUI (Google Colab)](https://colab.research.google.com/github/Diaz-AL/Alternative-StableDiffusion/blob/main/Alt_StableDiffusion_V2.1.ipynb)👈
-[![Google Colab](https://img.shields.io/badge/-Google%20Colab-%23F9AB00?style=plastic&logo=google-colab&logoColor=white)](https://colab.research.google.com/)
+[![Google Colab](https://img.shields.io/badge/-Google%20Colab-%23F9AB00?style=plastic&logo=google-colab&logoColor=white)](https://colab.research.google.com/github/Diaz-AL/Alternative-StableDiffusion/blob/main/Alt_StableDiffusion_V2.1.ipynb)
 
 ## Features
 All features that must be used when using Stable Diffusion WebUi:
