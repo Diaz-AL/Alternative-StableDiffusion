@@ -52,7 +52,7 @@ refreshTimer = (timerEl, notext = false) => {
       response.text().then((text) => {
         startTime = parseInt(text);
         if (isNaN(startTime))
-          timerEl.innerText = "Error. NaN stuff... Maybe network error";
+          timerEl.innerText = "Colab is Running!";
         else updateTimer(timerEl);
       });
     })
